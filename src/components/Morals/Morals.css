@@ -1,0 +1,55 @@
+#morals h1{
+    font-size: 50px;
+    font-family: 'Coolvetica';
+    color: #142036;
+    padding-left: 30px;
+
+}
+
+#morals h4{
+    margin-top:100px;
+    padding-left: 30px;
+    font-size: 35px;
+    font-family: 'Coolvetica';
+    color: #142036;
+}
+
+
+#morals h2{
+    padding-left: 30px;
+    font-size: 35px;
+    font-family: 'Coolvetica';
+    color: #ffffff;
+    display: inline;
+}
+
+
+#morals h3{
+    font-size: 35px;
+    font-family: 'Coolvetica';
+    color: #ffffff;
+    padding-left:40px;
+}
+
+#morals p{
+    font-size: 20px;
+    font-family: 'Lato';
+    color: #ffffff;
+    padding-left:40px;
+}
+
+#morals .container{
+background: rgb(91, 147, 192);
+margin-bottom: 150px;
+border-radius: 40px;
+
+}
+
+#morals .col{
+padding-top: 70px;
+}
+
+#morals img{
+padding-left:40px;
+padding-bottom: 40px;
+}
