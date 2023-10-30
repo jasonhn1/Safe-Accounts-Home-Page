@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/safe-accounts-home/static/css/main.01d65671.chunk.css",
+    "main.js": "/safe-accounts-home/static/js/main.bcca055b.chunk.js",
+    "main.js.map": "/safe-accounts-home/static/js/main.bcca055b.chunk.js.map",
+    "runtime-main.js": "/safe-accounts-home/static/js/runtime-main.10596f4e.js",
+    "runtime-main.js.map": "/safe-accounts-home/static/js/runtime-main.10596f4e.js.map",
+    "static/css/2.c374eb44.chunk.css": "/safe-accounts-home/static/css/2.c374eb44.chunk.css",
+    "static/js/2.83390a27.chunk.js": "/safe-accounts-home/static/js/2.83390a27.chunk.js",
+    "static/js/2.83390a27.chunk.js.map": "/safe-accounts-home/static/js/2.83390a27.chunk.js.map",
+    "static/js/3.a66b9b48.chunk.js": "/safe-accounts-home/static/js/3.a66b9b48.chunk.js",
+    "static/js/3.a66b9b48.chunk.js.map": "/safe-accounts-home/static/js/3.a66b9b48.chunk.js.map",
+    "index.html": "/safe-accounts-home/index.html",
+    "static/css/2.c374eb44.chunk.css.map": "/safe-accounts-home/static/css/2.c374eb44.chunk.css.map",
+    "static/css/main.01d65671.chunk.css.map": "/safe-accounts-home/static/css/main.01d65671.chunk.css.map",
+    "static/js/2.83390a27.chunk.js.LICENSE.txt": "/safe-accounts-home/static/js/2.83390a27.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/safe-accounts-home/static/media/coolvetica rg.42f59941.ttf",
+    "static/media/logo.6ce24c58.svg": "/safe-accounts-home/static/media/logo.6ce24c58.svg",
+    "static/media/logo.811bca66.png": "/safe-accounts-home/static/media/logo.811bca66.png",
+    "static/media/safe.4278cb94.png": "/safe-accounts-home/static/media/safe.4278cb94.png",
+    "static/media/start.5539eec9.png": "/safe-accounts-home/static/media/start.5539eec9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10596f4e.js",
+    "static/css/2.c374eb44.chunk.css",
+    "static/js/2.83390a27.chunk.js",
+    "static/css/main.01d65671.chunk.css",
+    "static/js/main.bcca055b.chunk.js"
+  ]
+}
