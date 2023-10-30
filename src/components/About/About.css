@@ -226,9 +226,7 @@ Section Why
 
 
 .box1{
-    border: 6px solid black;
-    border-radius: 5px;
-    background-color: rgb(152, 235, 221);
+
     grid-column-start:1;
     grid-column-end:1;
     grid-row-start:1;
@@ -236,9 +234,7 @@ Section Why
 }
 
  .box2{
-    border: 6px solid black;
-    border-radius: 5px;
-    background-color: rgb(152, 235, 221);
+
     grid-column-start:1;
     grid-column-end:1;
     grid-row-start:4;
@@ -246,9 +242,7 @@ Section Why
 }
 
  .box3{
-    border: 6px solid black;
-    border-radius: 5px;
-    background-color: rgb(152, 235, 221);
+
     grid-column-start:3;
     grid-column-end:6;
     grid-row-start:1;
@@ -256,9 +250,7 @@ Section Why
 }
 
  .box4{
-    border: 6px solid black;
-    border-radius: 5px;
-    background-color: rgb(152, 235, 221);
+
     grid-column-start:3;
     grid-column-end:6;
     grid-row-start:4;

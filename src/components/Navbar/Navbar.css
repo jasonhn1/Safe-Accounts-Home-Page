@@ -29,16 +29,16 @@
 
 .nav-btn{
     text-decoration: none;
-    color: rgb(15, 29, 110);
-    font-family: 'Coolvetica';
+    color: rgb(255, 255, 255);
+    font-family: 'Secular One', sans-serif;
     font-size: 25px;
     white-space: nowrap;
 }
 
 #nav button{
-    border: 2px solid black;
-    border-radius: 25px;
+    border: 4px solid black;
     margin-left: 40px;
+    background-color: rgba(241, 241, 241, 0);;
 }
 
 .nav-menu{
